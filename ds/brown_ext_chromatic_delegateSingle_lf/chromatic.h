@@ -4,6 +4,10 @@
  * Copyright (C) 2017 Trevor Brown
  * This preliminary implementation is CONFIDENTIAL and may not be distributed.
  */
+/**
+ *  Copyright (C) 2026 Concurrent Balanced Augmented Trees Authors
+ *  Added augmentation and delegation code
+*/
 
 #ifndef CHROMATIC_H
 #define	CHROMATIC_H

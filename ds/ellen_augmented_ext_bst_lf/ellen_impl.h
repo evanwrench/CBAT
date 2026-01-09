@@ -29,6 +29,10 @@
  *
  * Created on June 1, 2017, 3:56 PM
  */
+/**
+ *  Copyright (C) 2026 Concurrent Balanced Augmented Trees Authors
+ *  Added augmentation code
+*/
 
 #ifndef ELLEN_H
 #define ELLEN_H
